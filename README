@@ -1,0 +1,5 @@
+imageCompress
+-=-=-=-=-=-=-
+
+imageCompress is a simple way to encode arbitrary data into images. 
+The data is compressed and encoded at 6bytes/pixel density.
